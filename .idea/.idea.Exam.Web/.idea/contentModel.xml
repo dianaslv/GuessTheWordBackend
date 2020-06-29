@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Diana\.nuget\packages\nlog.schema\4.7.2\contentFiles\any\any\NLog.xsd" t="Include" />
+    <e p="C:\Users\Diana\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Exam.Web.526984206.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Diana\Desktop\ProiectEmptyMpp\Exam.Web" t="IncludeFlat">
+      <e p="Exam.Web.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Enums" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="UserType.cs" t="Include" />
+        </e>
+        <e p="Exam.Web.Core.csproj" t="IncludeRecursive" />
+        <e p="extensions" t="Include">
+          <e p="QueryableExtensions.cs" t="Include" />
+          <e p="StringExtensions.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="Commons" t="Include">
+            <e p="Filters" t="Include">
+              <e p="Implementations" t="Include">
+                <e p="SimpleFilter.cs" t="Include" />
+                <e p="StudentFilter.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IFilter.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Pagination.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="Commons" t="Include">
+              <e p="IIdentifier.cs" t="Include" />
+              <e p="IRepository.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Network" t="Include">
+            <e p="Models" t="Include">
+              <e p="LoginRequest.cs" t="Include" />
+              <e p="SearchRequest.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Models" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Category.cs" t="Include" />
+            <e p="CorrectResponses.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="Response.cs" t="Include" />
+            <e p="Round.cs" t="Include" />
+            <e p="Student.cs" t="Include" />
+            <e p="StudentToGame.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Network" t="Include">
+          <e p="Hub" t="Include">
+            <e p="Interfaces" t="Include">
+              <e p="IHub.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exam.Web.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="ICategoryRepository.cs" t="Include" />
+            <e p="ICorrectResponsesRepository.cs" t="Include" />
+            <e p="IGameRepository.cs" t="Include" />
+            <e p="IResponseRepository.cs" t="Include" />
+            <e p="IRoundRepository.cs" t="Include" />
+            <e p="IStudentRepository.cs" t="Include" />
+            <e p="IStudentToGameRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="CategoryService.cs" t="Include" />
+            <e p="CorrectResponsesService.cs" t="Include" />
+            <e p="GameService.cs" t="Include" />
+            <e p="ResponseService.cs" t="Include" />
+            <e p="RoundService.cs" t="Include" />
+            <e p="StudentService.cs" t="Include" />
+            <e p="StudentToGameService.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="ICategoryService.cs" t="Include" />
+            <e p="ICorrectResponsesService.cs" t="Include" />
+            <e p="IGameService.cs" t="Include" />
+            <e p="IResponseService.cs" t="Include" />
+            <e p="IRoundService.cs" t="Include" />
+            <e p="IStudentService.cs" t="Include" />
+            <e p="IStudentToGameService.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Exam.Web.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Context" t="Include">
+            <e p="DataContext.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="Implementations" t="Include">
+              <e p="CategoryRepository.cs" t="Include" />
+              <e p="CorrectResponsesRepository.cs" t="Include" />
+              <e p="GameRepository.cs" t="Include" />
+              <e p="ResponseRepository.cs" t="Include" />
+              <e p="RoundRepository.cs" t="Include" />
+              <e p="StudentRepository.cs" t="Include" />
+              <e p="StudentToGameRepository.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Exam.Web.Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="IOC" t="Include">
+          <e p="RegistrationKindAttribute.cs" t="Include" />
+          <e p="RegistrationType.cs" t="Include" />
+          <e p="ServiceCollectionExtensions.cs" t="Include" />
+        </e>
+        <e p="Network" t="Include">
+          <e p="Hubs" t="Include">
+            <e p="Implementation" t="Include">
+              <e p="SignalRHub.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exam.Web.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Exam.Web.Presentation" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="STudentController.cs" t="Include" />
+        </e>
+        <e p="Exam.Web.Presentation.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200624113038_Initial.cs" t="Include" />
+          <e p="20200624113038_Initial.Designer.cs" t="Include" />
+          <e p="20200624162703_third.cs" t="Include" />
+          <e p="20200624162703_third.Designer.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="NLog.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exam.Web.Presentation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Exam.Web.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

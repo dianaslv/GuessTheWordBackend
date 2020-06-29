@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5fd3952-dde0-4eac-aa06-e72afd1684a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/IOC/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/CorrectResponsesService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/GameService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/ResponseService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/RoundService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/StudentService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/StudentToGameService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/SimpleFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/Controllers/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Network/Models/LoginRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/StudentFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Round.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/CorrectResponses.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Enums/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/StudentToGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/IOC/RegistrationKindAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/IOC/RegistrationType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Pagination.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Interfaces/IFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Network/Models/SearchRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Helpers/Interfaces/Commons/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/14E/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Network/Hub/Interfaces/IHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Extensions/QueryableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3680BE5F-1887-4743-9788-D707F1CB36B7/91/1ad1368d/DbSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Context/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/3D5/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Network/Hubs/Implementation/SignalRHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/NLog.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Presentation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IGameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/ICategoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/ICorrectResponsesRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IResponseRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IRoundRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IStudentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IStudentToGameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/CategoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/CorrectResponsesRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/GameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/ResponseRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/RoundRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/StudentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/StudentToGameRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/ICategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/ICorrectResponsesService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IGameService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IResponseService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IRoundService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IStudentService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IStudentToGameService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IPlayerToGameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/UserFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/GameFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/PlayerService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/RoundFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/PlayerResponseFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/PlayerToGameFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/PlayerResponseService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/PlayerToGameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Models/Entities/PlayerResponse.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IGameRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/ICategoryRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/ICorrectResponsesRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IResponseRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IRoundRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IStudentRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Repository/Interfaces/IStudentToGameRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/CatgoryRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/CategoryRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/RpundRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/CorrectResponsesRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/GameRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/ResponseRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/RoundRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/StudentRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Data/Repositories/Implementations/StudentToGameRepository.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/ICategoryService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/ICorrectResponsesService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IGameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IResponseService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IRoundService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IStudentService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Interfaces/IStudentToGameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/SimpleFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Presentation/Controllers/STudentController.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Helpers/Commons/Filters/Implementations/StudentFilter.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Presentation/Controllers/StudentController.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Presentation/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/StudentService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Game.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/IOC/ServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Presentation/Startup.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Presentation/appsettings.json" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/CategoryService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/CorrectResponsesService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/GameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/ResponseService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/RoundService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Services/Implementations/StudentToGameService.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Core/Models/Entities/Response.cs" />
+        <option value="$PROJECT_DIR$/Exam.Web.Infrastructure/Network/Hubs/Implementation/SignalRHub.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dSFbw632MJsIYkNqs0SMrstCSj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Exam.Web.Presentation">
+    <configuration name="Exam.Web.Presentation" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Exam.Web.Presentation/Exam.Web.Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Exam.Web.Presentation" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam.Web.Presentation: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Exam.Web.Presentation/Exam.Web.Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5fd3952-dde0-4eac-aa06-e72afd1684a2" name="Default Changelist" comment="" />
+      <created>1592410663016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592410663016</updated>
+      <workItem from="1592410664451" duration="13169000" />
+      <workItem from="1592853879709" duration="59395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="3275" y="341" key="#xdebugger.evaluate" timestamp="1593021462029">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="3275" y="341" key="#xdebugger.evaluate/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021462029" />
+    <state width="804" height="454" key="DebuggerActiveHint" timestamp="1593021278298">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state width="804" height="454" key="DebuggerActiveHint/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021278298" />
+    <state width="715" height="402" key="DebuggerActiveHint/0.0.1707.929@0.0.1707.929" timestamp="1592998600220" />
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420406806" />
+    <state width="1663" height="406" key="GridCell.Tab.0.bottom" timestamp="1593159075183">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075183" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593033191425" />
+    <state width="1663" height="245" key="GridCell.Tab.0.bottom/0.0.1707.929@0.0.1707.929" timestamp="1593078854224" />
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919517" />
+    <state width="1663" height="406" key="GridCell.Tab.0.center" timestamp="1593159075182">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075182" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593033191425" />
+    <state width="1663" height="245" key="GridCell.Tab.0.center/0.0.1707.929@0.0.1707.929" timestamp="1593078854222" />
+    <state width="1877" height="363" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919517" />
+    <state width="1663" height="406" key="GridCell.Tab.0.left" timestamp="1593159075180">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075180" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593033191425" />
+    <state width="1663" height="245" key="GridCell.Tab.0.left/0.0.1707.929@0.0.1707.929" timestamp="1593078854222" />
+    <state width="1877" height="363" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919517" />
+    <state width="1663" height="406" key="GridCell.Tab.0.right" timestamp="1593159075182">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075182" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593033191425" />
+    <state width="1663" height="245" key="GridCell.Tab.0.right/0.0.1707.929@0.0.1707.929" timestamp="1593078854224" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919517" />
+    <state width="1663" height="406" key="GridCell.Tab.1.bottom" timestamp="1593159075188">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.1.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075188" />
+    <state width="1877" height="406" key="GridCell.Tab.1.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021449553" />
+    <state width="1663" height="352" key="GridCell.Tab.1.bottom/0.0.1707.929@0.0.1707.929" timestamp="1592998727531" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.1.center" timestamp="1593159075185">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.1.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075185" />
+    <state width="1877" height="406" key="GridCell.Tab.1.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021449553" />
+    <state width="1663" height="352" key="GridCell.Tab.1.center/0.0.1707.929@0.0.1707.929" timestamp="1592998727530" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.1.left" timestamp="1593159075184">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.1.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075184" />
+    <state width="1877" height="406" key="GridCell.Tab.1.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021449553" />
+    <state width="1663" height="352" key="GridCell.Tab.1.left/0.0.1707.929@0.0.1707.929" timestamp="1592998727530" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919517" />
+    <state width="1663" height="406" key="GridCell.Tab.1.right" timestamp="1593159075187">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.1.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075187" />
+    <state width="1877" height="406" key="GridCell.Tab.1.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021449553" />
+    <state width="1663" height="352" key="GridCell.Tab.1.right/0.0.1707.929@0.0.1707.929" timestamp="1592998727531" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.2.bottom" timestamp="1593159075193">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.2.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075193" />
+    <state width="1877" height="406" key="GridCell.Tab.2.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.2.bottom/0.0.1707.929@0.0.1707.929" timestamp="1592998727532" />
+    <state width="1877" height="363" key="GridCell.Tab.2.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.2.center" timestamp="1593159075191">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.2.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075191" />
+    <state width="1877" height="406" key="GridCell.Tab.2.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.2.center/0.0.1707.929@0.0.1707.929" timestamp="1592998727532" />
+    <state width="1877" height="363" key="GridCell.Tab.2.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.2.left" timestamp="1593159075190">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.2.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075190" />
+    <state width="1877" height="406" key="GridCell.Tab.2.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.2.left/0.0.1707.929@0.0.1707.929" timestamp="1592998727531" />
+    <state width="1877" height="363" key="GridCell.Tab.2.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.2.right" timestamp="1593159075191">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.2.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075191" />
+    <state width="1877" height="406" key="GridCell.Tab.2.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.2.right/0.0.1707.929@0.0.1707.929" timestamp="1592998727532" />
+    <state width="1877" height="363" key="GridCell.Tab.2.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.3.bottom" timestamp="1593159075195">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.3.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075195" />
+    <state width="1877" height="406" key="GridCell.Tab.3.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.3.bottom/0.0.1707.929@0.0.1707.929" timestamp="1592998727533" />
+    <state width="1877" height="363" key="GridCell.Tab.3.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.3.center" timestamp="1593159075195">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.3.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075195" />
+    <state width="1877" height="406" key="GridCell.Tab.3.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.3.center/0.0.1707.929@0.0.1707.929" timestamp="1592998727533" />
+    <state width="1877" height="363" key="GridCell.Tab.3.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.3.left" timestamp="1593159075194">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.3.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075194" />
+    <state width="1877" height="406" key="GridCell.Tab.3.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.3.left/0.0.1707.929@0.0.1707.929" timestamp="1592998727533" />
+    <state width="1877" height="363" key="GridCell.Tab.3.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.3.right" timestamp="1593159075195">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.3.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075195" />
+    <state width="1877" height="406" key="GridCell.Tab.3.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.3.right/0.0.1707.929@0.0.1707.929" timestamp="1592998727533" />
+    <state width="1877" height="363" key="GridCell.Tab.3.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.4.bottom" timestamp="1593159075200">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.4.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075200" />
+    <state width="1877" height="406" key="GridCell.Tab.4.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424158" />
+    <state width="1663" height="352" key="GridCell.Tab.4.bottom/0.0.1707.929@0.0.1707.929" timestamp="1592998727534" />
+    <state width="1877" height="363" key="GridCell.Tab.4.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.4.center" timestamp="1593159075199">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.4.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075199" />
+    <state width="1877" height="406" key="GridCell.Tab.4.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.4.center/0.0.1707.929@0.0.1707.929" timestamp="1592998727534" />
+    <state width="1877" height="363" key="GridCell.Tab.4.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.4.left" timestamp="1593159075197">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.4.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075197" />
+    <state width="1877" height="406" key="GridCell.Tab.4.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.4.left/0.0.1707.929@0.0.1707.929" timestamp="1592998727533" />
+    <state width="1877" height="363" key="GridCell.Tab.4.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state width="1663" height="406" key="GridCell.Tab.4.right" timestamp="1593159075200">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="406" key="GridCell.Tab.4.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1593159075200" />
+    <state width="1877" height="406" key="GridCell.Tab.4.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1593021424157" />
+    <state width="1663" height="352" key="GridCell.Tab.4.right/0.0.1707.929@0.0.1707.929" timestamp="1592998727534" />
+    <state width="1877" height="363" key="GridCell.Tab.4.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420919518" />
+    <state x="552" y="272" key="Rider.ProjectTemplateDialog.Size" timestamp="1592413619865">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592413619865" />
+    <state x="3302" y="331" key="RiderGenerateDialog" timestamp="1592929615841">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="3302" y="331" key="RiderGenerateDialog/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1592929615841" />
+    <state x="742" y="224" key="RiderGenerateDialog/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592422716999" />
+    <state width="968" height="538" key="XDebugger.FullValuePopup" timestamp="1592420406804">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="968" height="538" key="XDebugger.FullValuePopup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420406804" />
+    <state x="202" y="-26" width="1513" height="880" maximized="true" key="dock-window-1" timestamp="1592420479418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="202" y="-26" width="1513" height="880" maximized="true" key="dock-window-1/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592420479418" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-2" timestamp="1592421407031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-2/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592421407031" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-3" timestamp="1592421407031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-3/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592421407031" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-4" timestamp="1592421407031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-4/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592421407031" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-5" timestamp="1592421407031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-5/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592421407031" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1592422827988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1592422827988" />
+    <state x="3183" y="340" width="672" height="678" key="search.everywhere.popup" timestamp="1592937421925">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="3183" y="340" width="672" height="678" key="search.everywhere.popup/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1592937421925" />
+  </component>
+</project>
