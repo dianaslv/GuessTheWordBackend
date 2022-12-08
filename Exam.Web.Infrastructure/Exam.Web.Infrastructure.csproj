@@ -10,7 +10,7 @@
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5" />
       <PackageReference Include="Microsoft.Owin.Cors" Version="4.1.0" />
-      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
       <PackageReference Include="NLog" Version="4.7.2" />
       <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.2" />
       <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
